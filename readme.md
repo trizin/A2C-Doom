@@ -1,7 +1,7 @@
 # Deep Reinforcement learning Applied to DOOM.
 
 Simple A2C model made with tensorflow that can walk and shoot!  
-You can run the pretrained model in "./model" directory  
+You access the pretrained model in `./model` directory  
 Simply change the parameters in `train.py` and run it.
 
 
